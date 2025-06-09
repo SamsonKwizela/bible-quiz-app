@@ -20,7 +20,7 @@ A fun, interactive, and educational Bible Quiz application built to challenge us
 
 | Frontend         | Backend           | Database    | Deployment       |
 |------------------|-------------------|-------------|------------------|
-| React / Next.js  |                   | SQL/Firebase | 
+| React / Next.js  |   supabase                | SQL/Firebase | 
 
 
 
