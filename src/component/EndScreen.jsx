@@ -9,3 +9,4 @@ const EndScreen = ({ score, totalQuestions, onRestart }) => (
     </button>
   </div>
 );
+export default EndScreen;
