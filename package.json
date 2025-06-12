@@ -23,5 +23,17 @@
     "eslint-plugin-react-refresh": "^0.4.19",
     "globals": "^16.0.0",
     "vite": "^6.3.5"
-  }
+  },
+  "description": "An interactive bible quiz app",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SamsonKwizela/bible-quiz-app.git"
+  },
+  "author": "Samson Kwizela",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SamsonKwizela/bible-quiz-app/issues"
+  },
+  "homepage": "https://github.com/SamsonKwizela/bible-quiz-app#readme"
 }
